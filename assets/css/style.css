@@ -147,10 +147,7 @@ body {
 
 }
 
-
-/*-----------------------------------*\
-  #MATERIAL ICON
-\*-----------------------------------*/
+/* ICON */
 
 @font-face {
   font-family: "Material Symbols Rounded";
@@ -178,11 +175,7 @@ body {
   overflow: hidden;
 }
 
-
-
-/*-----------------------------------*\
-  #REUSED STYLE
-\*-----------------------------------*/
+/* REUSED STYLE */
 
 .container {
   max-width: 1600px;
@@ -331,16 +324,14 @@ body {
   100% {opacity: 1;}
 }
 
-/*-----------------------------------*\
-  #HEADER
-\*-----------------------------------*/
+/* HEADER */
 
 .search-view, .header .btn-primary .span {
   display: none;
 }
 
 .logo img {
-  width: 400px;
+  width: 150px;
 }
 
 .header .container, .header-actions {
@@ -470,9 +461,7 @@ display: none;
   box-shadow: none;
 }
 
-/*-----------------------------------*\
-  #MAIN
-\*-----------------------------------*/
+/* MAIN */
 
 main {
   height: calc(100vh - 80px);
@@ -518,10 +507,7 @@ article.container::before {
   margin-block-end: 16px;
 }
 
-
-/*-----------------------------------*\
-  #CURRENT WEATHER
-\*-----------------------------------*/
+/* CURRENT WEATHER */
 
 .current-weather-card .weapper {
   margin-block: 12px;
@@ -562,9 +548,7 @@ article.container::before {
   color: var(--on-surface-variant);
 }
 
-/*-----------------------------------*\
-  #HIGHLIGHTS
-\*-----------------------------------*/
+/* HIGHLIGHTS */
 
 .forecast-card .title-2 {
   -webkit-margin-after: 0;
@@ -595,11 +579,7 @@ article.container::before {
   text-align: right;
 }
 
-
-
-/*-----------------------------------*\
-  #HOURLY FORECAST
-\*-----------------------------------*/
+/* HOURLY FORECAST */
 
 .highlights .m-icon { 
   font-size: 3.2rem;
@@ -692,11 +672,8 @@ article.container::before {
   margin-block-end: 4px;
 }
 
+/* FORECAST */
 
-
-/*-----------------------------------*\
-  #FORECAST
-\*-----------------------------------*/
 .slider-container {
   overflow-x: auto;
   margin-inline: -16px;
@@ -736,10 +713,7 @@ article.container::before {
   margin-block: 12px;
 }
 
-
-/*-----------------------------------*\
-  #LOADING
-\*-----------------------------------*/
+/* LOADING */
 
 .loading {
   position: absolute;
@@ -763,10 +737,7 @@ article.container::before {
   animation: loading 500ms linear infinite;
 }
 
-
-/*-----------------------------------*\
-  #ERROR SECTION
-\*-----------------------------------*/
+/* ERROR */
 
 .error-content {
   position: fixed;
@@ -787,11 +758,7 @@ article.container::before {
   margin-block-start: 20px;
 }
 
-
-
-/*-----------------------------------*\
-  #FOOTER
-\*-----------------------------------*/
+/* FOOTER */
 
 .footer, .footer .body-3:last-child {
   display: flex;
@@ -817,11 +784,8 @@ article.container::before {
 }
 
 
-/*-----------------------------------*\
-  #MEDIA QUERIES
-\*-----------------------------------*/
+ /* MEDIA QUERIES */ 
 
-/* LANDSCAPE TABLETS */
 @media (min-width: 768px) {
   
   .container {
