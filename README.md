@@ -135,5 +135,5 @@ We welcome contributions to enhance the project! Encounter a glitch? Have a feat
 
 ## License
 
-This project is distributed under the GNU General Public License (GPL). You can find the full text of the license in the [LICENSE](LICENSE) file.
+This project is distributed under the GNU General Public License (GPL). You can find the full text of the license in the [LICENSE](license.txt) file.
 The project was done with the help of codewithsadee [tutorial](https://www.youtube.com/watch?v=QMwyNnjAils)  this was his idea and this project is inspired by him. 
