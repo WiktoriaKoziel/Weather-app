@@ -110,7 +110,6 @@ route.js is the traffic controller for Weathee routes, managing URL changes and 
 
 ![Screenshot from the web app ipad mini](/screenshots/ipadmini1.png)
 ![Screenshot from the web app ipad mini](/screenshots/ipadmini2.png)
-ipad pro.png
 
 ### Ipad pro
 
