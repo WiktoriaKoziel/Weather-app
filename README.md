@@ -6,7 +6,7 @@ Weatheee is a web application that provides real-time weather information. It of
 
 The application is developed using HTML, CSS, and JavaScript, and it utilizes the OpenWeather API to fetch weather data for different cities around the world.
 
-You can view the whole application HERE 
+You can view the whole application [HERE](https://wiktoriakoziel.github.io/Weather-app/#/weather?lat=54.42880315&lon=18.798325902846855)
 
 ## Table of Contents
 
